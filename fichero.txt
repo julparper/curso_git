@@ -1,2 +1,4 @@
 fichero 1 cambiado - NUEVA RAMA - MAS CAMBIOS EN LOS OTRAS
 ahora desde vsc
+
+cambio en kraken
