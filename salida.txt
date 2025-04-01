@@ -1,0 +1,59 @@
+commit 5ad4a13a8260cc8350357edefeefb28f7ea3a7b1
+Author: Julián Parra <julian.parraperales@educa.madrid.org>
+Date:   Wed Mar 26 15:31:17 2025 +0100
+
+    Nueva carepta en otra carpeta
+
+commit b4d5c59983a3510d9986ba3e60523b7c7fc23314
+Author: Julián Parra <julian.parraperales@educa.madrid.org>
+Date:   Wed Mar 26 15:30:23 2025 +0100
+
+    Nueva carpeta
+
+commit 782bd37a99c3fdc43be282401e8a0f71ac0c926a
+Author: Julián Parra <julian.parraperales@educa.madrid.org>
+Date:   Wed Mar 26 15:27:55 2025 +0100
+
+    Desde kraken
+
+commit 686a3528c59057207d7a05e5f8956c43395a58f9
+Author: Julián Parra <julian.parraperales@educa.madrid.org>
+Date:   Wed Mar 26 15:23:52 2025 +0100
+
+    Cambios desde vsc
+
+commit 93f9b512c784b965670eef56834f264b0cfcbc87
+Author: Julián Parra <julian.parraperales@educa.madrid.org>
+Date:   Wed Mar 26 15:20:01 2025 +0100
+
+    Cambios en la otra rama
+
+commit 0352c4110dafc73307e719b8b9bf7fd006d607b9
+Author: Julián Parra <julian.parraperales@educa.madrid.org>
+Date:   Wed Mar 26 15:08:43 2025 +0100
+
+    nueva rama con cambios
+
+commit e3589630ac59bd086130ecb799c8dc45ac3484a5
+Author: Julián Parra <julian.parraperales@educa.madrid.org>
+Date:   Wed Mar 26 14:55:41 2025 +0100
+
+    ficheros cambiados
+
+commit ea3d1096ea6d8a1de38f1360a5c87e756d72e321
+Author: Julián Parra <julian.parraperales@educa.madrid.org>
+Date:   Wed Mar 26 14:53:46 2025 +0100
+
+    tercer fichero
+
+commit a77804597797e626ff2dfa10b7c06de44bfb8897
+Author: Julián Parra <julian.parraperales@educa.madrid.org>
+Date:   Wed Mar 26 14:53:27 2025 +0100
+
+    segundo fichero
+
+commit 396773680638a952d176a5c20694d983424fbda4
+Author: Julián Parra <julian.parraperales@educa.madrid.org>
+Date:   Wed Mar 26 14:53:02 2025 +0100
+
+    primer fichero
